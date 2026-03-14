@@ -138,7 +138,7 @@ markupsafe==3.0.2
 marshmallow==3.26.1
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
-mcp==1.6.0
+mcp==1.26.0
 mdurl==0.1.2
 mistralai==1.6.0
 mistune==3.1.3
