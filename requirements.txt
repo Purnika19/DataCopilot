@@ -216,7 +216,7 @@ pygments==2.19.1
 pyparsing==3.2.3
 pypika==0.48.9
 pyproject-hooks==1.2.0
-pytest==8.3.5
+pytest==9.0.2
 pytest-cov==6.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
